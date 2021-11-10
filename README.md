@@ -14,3 +14,5 @@
 - OneDrive
 
 yeah....
+
+Scavenger Hunt Link: https://discord.gg/B5rYrxryf4
