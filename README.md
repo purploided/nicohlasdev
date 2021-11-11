@@ -1,17 +1,19 @@
 👋😳 - Hi! I'm Flushed, a Python Developer w/ a bit of Cloud Management Certification!
 
-😳🕸️ - My website: https://flushed.tebex.io/
+😳🕸️ - IT Experiences:
+
+- GCLOUD \
+- Kali Linux \
+- Python
 
 😳📇 - How to Contact me?:
 
-- Email-Address intothedepthsofscience@gmail.com \
 - Discord-Tag FlushedPNG#0100
 
 😳☁️ - Cloud Experience:
 
 - Create and Manage Cloud Resources - GCLOUD \
-- icloud \
-- OneDrive
+- Perform Foundational Infrastructure Tasks in Google Cloud - GCLOUD
 
 yeah....
 
