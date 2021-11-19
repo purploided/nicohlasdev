@@ -8,7 +8,7 @@
 
 😳📇 - How to Contact me?:
 
-- Discord-Tag FlushedPNG#0100
+- Discord-Tag Nicohlas#1337
 
 😳☁️ - Cloud Experience:
 
@@ -16,5 +16,3 @@
 - Perform Foundational Infrastructure Tasks in Google Cloud - GCLOUD
 
 yeah....
-
-Scavenger Hunt Link: https://discord.gg/B5rYrxryf4
