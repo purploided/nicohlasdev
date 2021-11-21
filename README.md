@@ -1,4 +1,4 @@
-👋😳 - Hi! I'm Flushed, a Python Developer w/ a bit of Cloud Management Certification!
+👋😳 - Hi! I'm Nic, a Python Developer w/ a bit of Cloud Management Certification!
 
 😳🕸️ - IT Experiences:
 
