@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicohias&label=Profile%20views&color=0e75b6&style=flat" alt="nicohias" /> </p>
 
-- 🔭 I’m currently working on **Jarad - The Self Learning AI**
+- 🔭 I’m currently working on **math2Code**
 
 - 🌱 I’m currently learning **Javascript, Python & Nextcord**
 
