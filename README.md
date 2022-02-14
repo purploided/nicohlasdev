@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">I'm a 13 year old Python developer from Australia</h3>
+<h3 align="center">I'm a 14 year old Full Stack Developer from Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicohias&label=Profile%20views&color=0e75b6&style=flat" alt="nicohias" /> </p>
 
-- 🔭 I’m currently working on **math2Code**
+- 🔭 I’m currently working on **The Upload Archive**
 
 - 🌱 I’m currently learning **Javascript, Python & Nextcord**
-
-- 📫 I am excited for when I **turn 14 ??**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NicohIas](https://github.com/NicohIas)
 
 - 💬 Ask me about **My life?**
-
-- ⚡ Fun fact **I stream on Tiktok!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
