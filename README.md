@@ -13,13 +13,13 @@ JavaScript, Python, HTML, CSS, ElectronJS, NodeJS, Linux, Discord.PY, and Pterod
 
 # About Me
 
-I love to play video games! I know it may come as a surprise, since I am a 14 year old teenager.. *sarcasm*, but I play games in my free time (while im not crying, or programming)! I love video games such as: VALORANT, BeamNG.Drive, Minecraft, and more!
+I love to play video games! I know it may come as a surprise, since I am a 14 year old teenager.. *sarcasm*, but I play games in my free time (while im not crying, or programming)! I love video games such as: BeamNG.Drive, DiRT Rally 2.0, and more!
 
 I have Autism & ADHD, I have two dogs, & I love cats!
 
 # My Computer (below)
 
-![IMG_1191](https://user-images.githubusercontent.com/93119331/169195677-cd5137af-59aa-4892-85b9-32646d0d0e33.jpg)
+![IMG](https://cdn.discordapp.com/attachments/1012946217279434784/1017015336073183293/4939A1C1-46BB-42B1-AF01-B11928803584.jpg)
 
 # My Socials
 
